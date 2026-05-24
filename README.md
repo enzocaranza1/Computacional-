@@ -6,7 +6,7 @@ Este repositorio contiene el desarrollo del proyecto semestral para la asignatur
 
 El repositorio está organizado de la siguiente manera:
 
-* Informe Avance de Proyecto: Documento fuente en LaTeX que contiene el informe académico del proyecto correspondiente al 70% de avance.
+* Informe Avance de Proyecto: Documento fuente en LaTeX que contiene el informe académico del proyecto correspondiente al avance.
 * Avance_Proyecto_Enzo_Ocaranza_70%.py: Script de Python totalmente funcional que ejecuta el motor de cálculo, realiza la diagonalización, reconstruye la amplitud espacial de la función de onda y genera los gráficos dinámicos.
 
 ## Métodos Numéricos Implementados
