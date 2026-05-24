@@ -1,4 +1,4 @@
-# Solver 2D de la Ecuación de Schrödinger: Potencial de Pullen-Edmonds (Avance 70%)
+# Solver 2D de la Ecuación de Schrödinger: Potencial de Pullen-Edmonds 
 
 Este repositorio contiene el desarrollo del proyecto semestral para la asignatura **Física Computacional**. El objetivo principal del proyecto es construir un solver numérico eficiente para calcular los niveles de energía y reconstruir las funciones de onda espaciales de una partícula atrapada en un potencial bidimensional acoplado.
 
